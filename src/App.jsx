@@ -11,7 +11,7 @@ function App() {
       <Main />
       <Work />
     </div>
-  )
-}
+  );
+};
 
 export default App
