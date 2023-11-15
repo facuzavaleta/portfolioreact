@@ -8,7 +8,7 @@ const Main = () => {
         <img className='w-full h-screen object-cover object-left' src="/img/main-background.jpg" alt="" />
         <div className='w-full h-screen absolute top-0 left-0 bg-white/50'>
           <div className='m-auto h-full w-full flex flex-col justify-center items-center'>
-            <h1 className='sm:text-5xl text-4xl font-bold text-gray-800'>I'm Facundo Zavaleta</h1>
+            <h1 className='sm:text-5xl text-4xl font-bold text-gray-800'>Facundo Zavaleta</h1>
             <h2 className='flex sm:text-3xl text-2xl pt-4 text-gray-800'>
               I'm a
             <TypeAnimation
