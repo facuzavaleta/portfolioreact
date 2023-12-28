@@ -3,28 +3,28 @@ import WorkItem from './WorkItem'
 
 const data = [
     {
-        year: 2020,
-        title: 'Content Creator',
-        duration: '3 years',
-        details: 'Lorem ipsum, dolor sit amet consectetur adipisicing elit'
+        year: 2012,
+        title: 'Administrative Officer for Ministry of Goverment',
+        duration: '4 years',
+        details: 'Analyzed and approved budgets for goverment departments with the help of a legal and accounting team'
     },
     {
-        year: 2020,
-        title: 'Content Creator',
-        duration: '3 years',
-        details: 'Lorem ipsum, dolor sit amet consectetur adipisicing elit'
+        year: 2015,
+        title: 'Data Analyst for Yaky Sumaq Foundation',
+        duration: '2 years',
+        details: 'Collected and analyzed data on water sanitization and gender-based violence to create comprehensive reports'
     },
     {
-        year: 2020,
-        title: 'Content Creator',
-        duration: '3 years',
-        details: 'Lorem ipsum, dolor sit amet consectetur adipisicing elit'
+        year: 2017,
+        title: 'Admnistrator in Mamacucha Hostel',
+        duration: '7 years',
+        details: 'Managed day-to-day hostel operations, finances, and guest satisfaction, while also developing new programs and initiatives'
     },
     {
-        year: 2020,
-        title: 'Content Creator',
-        duration: '3 years',
-        details: 'Lorem ipsum, dolor sit amet consectetur adipisicing elit'
+        year: 2022,
+        title: 'Freelance Software Developer',
+        duration: 'Present',
+        details: 'Currently working on my own projects and web apps, while collaborating with partners'
     },
 ]
 
